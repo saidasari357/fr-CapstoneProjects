@@ -28,3 +28,8 @@ The project demonstrates **real DevOps deployment using Azure Slots (Staging & P
 
 <img width="1565" height="916" alt="image" src="https://github.com/user-attachments/assets/0226061d-9868-40ed-b1c7-089030423bae" />
 
+# Capstone Project 2: Build and deploy a Frontend + Backend application using Docker containers and Kubernetes on Azure.
+The deployment uses Blue-Green strategy with zero-downtime, fully automated through GitHub Actions.
+Images are security-scanned with Trivy before deployment to production.
+
+link: https://github.com/saidasari357/azure-aks-bluegreen-demo.git
