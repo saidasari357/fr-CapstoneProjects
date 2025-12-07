@@ -26,5 +26,5 @@ The project demonstrates **real DevOps deployment using Azure Slots (Staging & P
 
 ### 📂 Structure
 
-<img width="1317" height="548" alt="image" src="https://github.com/user-attachments/assets/7d5bec69-d596-41d1-8600-2e3d1aadfef4" />
+<img width="1565" height="916" alt="image" src="https://github.com/user-attachments/assets/0226061d-9868-40ed-b1c7-089030423bae" />
 
