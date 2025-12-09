@@ -32,4 +32,4 @@ The project demonstrates **real DevOps deployment using Azure Slots (Staging & P
 The deployment uses Blue-Green strategy with zero-downtime, fully automated through GitHub Actions.
 Images are security-scanned with Trivy before deployment to production.
 
-link: https://github.com/saidasari357/azure-aks-bluegreen-demo.git
+link: https://github.com/saidasari357/expense-recorder-aks.git
