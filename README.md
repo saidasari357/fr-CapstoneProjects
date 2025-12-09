@@ -3,7 +3,8 @@
 This repository contains two cloud-based DevOps projects built around a simple **Expense Recorder** application (Frontend + Backend).  
 Both projects demonstrate **real-world deployment strategies on Microsoft Azure**.
 
----
+<img width="1317" height="548" alt="expense" src="https://github.com/user-attachments/assets/1e64f61a-9c8c-4220-b637-6aa491797911" />
+
 
 ## 🚀 Capstone Project 1  
 ### ☁️ Deploy Expense Recorder on Azure App Service using Terraform + Deployment Slots
