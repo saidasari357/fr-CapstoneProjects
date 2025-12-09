@@ -18,11 +18,7 @@ The main goal is to show how to:
 - Deploy a web application to App Service
 - Use **staging + production slots** to achieve **zero-downtime deployment** (Blue-Green style)
 
----
-
-### 🏗 Architecture (Capstone 1)
-
-```text
+🏗 Architecture (Capstone 1)
 Local Machine (VS Code)
      │
      │  Terraform (azurerm)
@@ -120,4 +116,3 @@ expense-recorder-aks/
 
 
 link: https://github.com/saidasari357/expense-recorder-aks.git
-
