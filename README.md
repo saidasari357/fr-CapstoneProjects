@@ -24,21 +24,6 @@ VS Code → Terraform → Azure Resource Group
                └─ App Service (Staging Slot → Slot Swap → Production)
 
 
-<img width="1317" height="548" alt="expense" src="https://github.com/user-attachments/assets/4a93889e-abb5-4027-9f15-5bb3cc6f2257" />
+<img width="1317" height="548" alt="expense" src="https://github.com/user-attachments/assets/1e64f61a-9c8c-4220-b637-6aa491797911" />
 
-
-🛠 Tech Stack
-Component	Technology
-Cloud	Azure
-IaC	Terraform
-Compute	App Service (Linux)
-Language	Node.js + HTML/CSS/JS
-Deployment Strategy	App Service Slots (Blue-Green)
-
-
-📂 Repository Structure
-fr-CapstoneProjects/
-├── app/           # Frontend + Backend Code
-├── infra/         # Terraform for Azure Resources
-├── app.zip        # Deployable package
-└── README.md
+Project 2 link: https://github.com/saidasari357/expense-recorder-aks.git
