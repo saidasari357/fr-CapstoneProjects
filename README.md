@@ -18,13 +18,5 @@ It uses **Staging & Production Slots** to allow **Blue-Green deployment without 
 - **Zero-Downtime Releases** via Slot Swap
 - Node.js + HTML/CSS/JS Expense Recorder App
 
-#### 🏗 Architecture
-```text
-VS Code → Terraform → Azure Resource Group
-           └─ App Service Plan
-               └─ App Service (Staging Slot → Slot Swap → Production)
-
-
-<img width="1317" height="548" alt="expense" src="https://github.com/user-attachments/assets/1e64f61a-9c8c-4220-b637-6aa491797911" />
 
 Project 2 link: https://github.com/saidasari357/expense-recorder-aks.git
